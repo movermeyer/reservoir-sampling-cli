@@ -12,8 +12,8 @@ Continuous integration status:
 
 PyPI status:
 
-[![PyPi version](https://pypip.in/v/reservoir-sampling-cli/badge.png)](https://crate.io/packages/reservoir-sampling-cli/)
-[![PyPi downloads](https://pypip.in/d/reservoir-sampling-cli/badge.png)](https://crate.io/packages/reservoir-sampling-cli/)
+[![PyPi version](https://img.shields.io/pypi/v/reservoir-sampling-cli.svg)](https://crate.io/packages/reservoir-sampling-cli/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/reservoir-sampling-cli.svg)](https://crate.io/packages/reservoir-sampling-cli/)
 
 Installation
 ------------
